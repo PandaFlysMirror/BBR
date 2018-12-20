@@ -6,7 +6,7 @@ export PATH
 #	System Required: Debian/Ubuntu
 #	Description: 魔改版BBR
 #	Version: 1.0
-#	Author: 雨落无声
+#	Author: 闻风而至
 #	Blog: https://www.zhujiboke.com
 #	From https://doub.io
 #=================================================
